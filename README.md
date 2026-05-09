@@ -43,3 +43,4 @@ and project planning software;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams. ([Repo](https://github.com/taskade/taskade))
 * [**Notyfy**](https://notyfy.co/) [Multi-platform / *Free*] - All your web notifications in one place.
 * [**WebCull**](https://webcull.com/) [Web / Extensions / *Freemium*] - Your web resources securely organized in one place.
+* [**TinyTools**](https://tinytools-smoky.vercel.app/) [Web / *Free* & *Open-source*] - Browser-based collection of single-purpose utilities (favicon generator, OG image generator, AI background remover that runs locally, color palette generator, SEO meta tag generator, AI cost calculator). No signup, no uploads.
